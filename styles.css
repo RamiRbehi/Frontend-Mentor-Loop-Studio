@@ -280,7 +280,7 @@ text-align: center;}
 
 /* Container Three */
 #container-three {padding: 5%;
-margin-bottom: 80px;}
+margin-bottom: 100px;}
 
 .creation-div {position: relative;
 margin-left: 30px;
@@ -296,7 +296,7 @@ width: 350px;
 right: 150px;
 top: 100px;}
   
-.move {top: 1400px;}
+.move {top: 1450px;}
 
 .container.content {padding: 0;}
 
@@ -308,8 +308,6 @@ width: 400px;}
 
 .content:hover .mobile {opacity: 0.3;
 cursor: pointer;}
-
-.last-mobile {margin-bottom: 80px;}
 
 .title-image {
 text-align: left;
