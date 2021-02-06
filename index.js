@@ -1,6 +1,5 @@
 $(document).ready(function() {
 $(".images-list").hide();
-});
 
 $(".btn").click(function(){
   if ( $( ".images-list" ).first().is( ":hidden" ) ) {
@@ -17,3 +16,6 @@ $(".navbar-toggler").click(function (event) {
 });
 });
 
+$(".btn").addClass(function() {
+  $(this).addClass("move");
+  });
