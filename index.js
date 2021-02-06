@@ -7,7 +7,6 @@ $(".btn").click(function(){
  } else {
    $( ".images-list" ).hide("slow");
  }
-  $(this).addClass("move");
 });
 });
 
@@ -16,3 +15,7 @@ $(".navbar-toggler").click(function (event) {
   $(".new-bg, .list, .burger, .close").toggleClass("active");
 });
 });
+
+$(".btn).addClass(function() {
+  $(this).addClass("move");
+  });
