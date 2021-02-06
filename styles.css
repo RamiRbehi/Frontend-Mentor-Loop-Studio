@@ -282,7 +282,9 @@ text-align: center;}
 #container-three {padding: 5%;
 margin-bottom: 80px;}
 
-.creation-div {margin-left: 40px;}
+.creation-div {position: relative;
+margin-left: 10px;
+display: grid;}
 
 .creation-title {letter-spacing: 3px;
 font-size: 35px;
@@ -290,9 +292,9 @@ margin: 20px;
 width: 350px;
 }
 
-.btn {
-margin-right: 140px;
-margin-top: 40px;}
+.btn {position: absolute;
+right: 150px;
+top: 100px;}
   
 .move {top: 1500px;}
 
