@@ -1,5 +1,6 @@
 $(document).ready(function() {
 $(".images-list").hide();
+});
 
 $(".btn").click(function(){
   if ( $( ".images-list" ).first().is( ":hidden" ) ) {
