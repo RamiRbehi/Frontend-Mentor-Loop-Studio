@@ -283,7 +283,7 @@ text-align: center;}
 margin-bottom: 80px;}
 
 .creation-div {position: relative;
-margin-left: 10px;
+margin-left: 30px;
 display: grid;}
 
 .creation-title {letter-spacing: 3px;
@@ -304,8 +304,7 @@ top: 100px;}
 
 .mobile {display: block;
 padding: 10px;
-width: 400px;
-margin-right: 100px;}
+width: 400px;}
 
 .content:hover .mobile {opacity: 0.3;
 cursor: pointer;}
