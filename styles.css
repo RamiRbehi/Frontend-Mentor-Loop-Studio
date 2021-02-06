@@ -291,8 +291,10 @@ width: 350px;
 }
 
 .btn {position: sticky;
-top: 600px;
-margin-right: 140px;}
+margin-right: 140px;
+margin-top: 40px;}
+  
+.move {top: 1500px;}
 
 .container {padding: 0;}
 
