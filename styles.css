@@ -290,7 +290,7 @@ margin: 20px;
 width: 350px;
 }
 
-.btn {position: sticky;
+.btn {position: relative;
 margin-right: 140px;
 margin-top: 40px;}
   
