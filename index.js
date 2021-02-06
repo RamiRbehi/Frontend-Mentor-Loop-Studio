@@ -7,6 +7,7 @@ $(".btn").click(function(){
  } else {
    $( ".images-list" ).hide("slow");
  }
+  $( ".images-list" ).hide("slow");
 });
 });
 
