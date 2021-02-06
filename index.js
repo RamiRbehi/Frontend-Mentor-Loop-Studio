@@ -16,6 +16,3 @@ $(".navbar-toggler").click(function (event) {
 });
 });
 
-$(".btn).addClass(function() {
-  $(this).addClass("move");
-  });
